@@ -2,12 +2,11 @@
 
 ---
 
-# Contributor Code of Conduct
+# Webmaker Contributor Code of Conduct
 
+As contributors and maintainers of this project, we agree to adhere to the [Mozilla Community Participation Guidelines](http://www.mozilla.org/en-US/about/governance/policies/participation).
 
-As contributors and maintainers of this project, we pledge to respect all people who contribute through
-reporting issues, posting feature requests, updating documentation, submitting pull requests or patches,
-and other activities.
+We pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities.
 
 If any participant in this project has issues or takes exception with a contribution, they are obligated
 to provide constructive feedback and never resort to personal attacks, trolling, public or private harassment,
