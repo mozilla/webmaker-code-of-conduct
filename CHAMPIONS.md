@@ -4,3 +4,4 @@
 - Kate Hudson (@k88hudson)
 - William Duyck (@fuzzyfox0)
 - Gavin Lazar Suntop (@gvn)
+- William Duyck (@fuzzyfox0)
