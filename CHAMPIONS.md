@@ -2,3 +2,4 @@
 
 - Aki Braun (@gesa)
 - Kate Hudson (@k88hudson)
+- William Duyck (@fuzzyfox0)
