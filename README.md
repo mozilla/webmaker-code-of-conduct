@@ -11,7 +11,7 @@ It is intended to be something that can be (1) included/linked to easily from ou
 
 ## Add CODE_OF_CONDUCT.md to your project
 
-If you contribute to a repository on GitHub that is part of the Webmaker project, add [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to the root directory.
+If you contribute to a repository on GitHub that is part of the Webmaker project, add [code_of_conduct.md](lang/en-US/code_of_conduct.md) to the root directory.
 
 ## Add your name to CHAMPIONS.md
 
